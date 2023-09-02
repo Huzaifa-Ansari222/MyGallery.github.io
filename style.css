@@ -73,3 +73,9 @@ h1{
     opacity: 1;
     transform: scale(1.03);
 }
+@media(max-width:450px){
+
+    .card{
+        width: 80%;
+    }
+}
